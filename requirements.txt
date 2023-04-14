@@ -1,0 +1,10 @@
+flask
+prophet
+pandas
+numpy
+scikit-learn
+statsmodels
+keras
+matplotlib
+flask-cors
+joblib
